@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Resume</title>
+</head>
+
+<body>
+    <h1>HRIDWIN S JITH✔️</h1>
+    <img src="./HridwinImage.png" alt="Profile photo" height="200px">
+    <p>I'm a business man and an entreprenuer</p>
+    <hr>
+    <h2>Education </h2>
+    <ul>
+        <li><b>Btech</b> - TKM College of Engineering
+        <li><b>+2</b>-Rahmania Higher Secondary School</li>
+        <li><b>SSLC</b>-MES Central School</li>
+    </ul>
+    <h2>Work Experience</h2>
+    <p>Subject Matter Expert <b>Chegg India</b></p>
+    <h2>Skills</h2>
+    <ul>
+        <li>HTML,CSS,JS-⭐️⭐️</li>
+        <li>Python-⭐️</li>
+        <li>Lean startup-⭐️⭐️⭐️⭐️⭐️</li>
+
+        
+    </ul>
+    <hr>
+<a href="./Hobbies.html">Hobbies</a>
+<a href="./Contact.html">Contact Me</a>
+<footer>© 2023 Konnari</footer>
+</body>
+
+</html>
